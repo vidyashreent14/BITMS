@@ -1,0 +1,10 @@
+collage=[10,20,30,40,50,60,70,80,90,100]
+print(collage[1])
+print(collage[1:3])
+print(collage[1:7])
+print(collage[-4:-1])
+print(collage[3:-1])
+print(collage[1:])
+print(collage[:-1])
+print(collage[0:])
+print(collage[0:4:3])
